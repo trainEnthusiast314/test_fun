@@ -1,0 +1,3 @@
+Initial file
+
+Hello team, this repo is set up to let us tinker with pulls pushes and all the good stuff as a team. 
